@@ -1,4 +1,4 @@
-certifi==2020.6.20
+certifi==2023.7.22
 chardet==3.0.4
 click==7.1.2
 cycler==0.10.0
@@ -10,16 +10,16 @@ jsonify==0.5
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.3.1
-numpy==1.22.0
-opencv-contrib-python==4.4.0.44
-opencv-python==4.4.0.42
+numpy==1.22.2
+opencv-contrib-python==4.8.1.78
+opencv-python==4.8.1.78
 pandas==1.1.1
-Pillow==9.2.0
+Pillow==10.3.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.1
 requests==2.24.0
-scipy==1.5.2
+scipy==1.10.0rc1
 seaborn==0.10.1
 six==1.15.0
 urllib3==1.25.11
